@@ -1,0 +1,42 @@
+# 🚀 21-Day SQL Challenge — Day 1: Introduction to SQL, SELECT Statement & LIMIT
+
+Starting my SQL learning journey with Day 1!  
+Today, I focused on retrieving specific columns from a table, exploring the structure of the data, and limiting the number of records returned.
+
+---
+
+## 📌 Task of the Day
+Fetch all unique hospital services available in the records.
+
+---
+
+## 🧩 Query Used
+```sql
+SELECT DISTINCT
+    service 
+FROM
+    services_weekly;
+
+📚 Key Learnings
+
+SQL (Structured Query Language) is used to interact with relational databases.
+
+SELECT retrieves data from one or more columns in a table.
+
+Limiting columns helps in getting only the relevant information.
+
+Understanding the table structure before querying is beneficial.
+
+🔑 Key Notes
+
+LIMIT controls how many records are returned, useful for large datasets.
+
+DESC or DESCRIBE commands help check column details and types.
+
+AS can rename columns temporarily to improve readability.
+
+🙌 Acknowledgement
+Thanks to [@DPDzero](https://github.com/DPDzero) and [@indiandataclub](https://github.com/indiandataclub)
+for the amazing #SQLWithIDC challenge!
+
+Limiting output helps reduce clutter and preview specific portions of data.
