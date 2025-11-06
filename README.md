@@ -17,13 +17,13 @@ There are total 4 tables.
 
 
 ### ✨ Daily Progress & Learning
-| Day | Date | Topics Covered | Query Links | Output Image | Status
-|---|---|---|---|---|---|
-| day 1 | 03-11-2025 | Basic SELECT, column selection, viewing data structure | [Day1_query](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day%201/Day1_solution.jpg) | [Day1_o/p] | 🟢 Done |
-| day 2 | 04-11-2025 | WHERE clause, comparison operators, basic filtering | [Day2_query](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day2.sql) | [Day2_o/p]  | 🟢 Done |
-| day 3 | 05-11-2025 | ORDER BY, ASC/DESC, multiple column sorting | [Day3_query](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day3.sql) | [Day3_o/p] | 🟢 Done |
-| day 4 | 06-11-2025 | LIMIT, OFFSET, pagination concepts | Day4_query | [Day4_o/p] | 🟢 Done  |
-| day 5 | 07-11-2025 |  | Link_Day4 | |  ⚪ Planned |
+| Day | Date | Topics Covered | Exercises Completed | Status
+|---|---|---|---|---|
+| day 1 | 03-11-2025 | Basic SELECT, column selection, viewing data structure | [Link_Day1](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day%201/Day1_solution.jpg) | 🟢 Done |
+| day 2 | 04-11-2025 | WHERE clause, comparison operators, basic filtering | [Link_Day2](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day2.sql) | 🟢 Done |
+| day 3 | 05-11-2025 | ORDER BY, ASC/DESC, multiple column sorting | [Link_Day3](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day3.sql) | 🟢 Done |
+| day 4 | 06-11-2025 | LIMIT, OFFSET, pagination concepts | [Link_Day4]() | 🟢 Done  |
+| day 5 | 07-11-2025 |  | Link_Day5 |  ⚪ Planned |
 
  
 ### 🤝 The Club
