@@ -25,7 +25,8 @@ There are total 4 tables.
 | day 4 | 06-11-2025 | LIMIT, OFFSET, pagination concepts | [Link_Day4](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day4.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day4_output.png) | 🟢 Done  |
 | day 5 | 07-11-2025 |  COUNT, SUM, AVG, MIN, MAX functions | [Link_Day5](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day5.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day5_output.png)| 🟢 Done  |
 | day 6 | 09-11-2025 | GROUP BY, aggregating by categories | [Link_Day6](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day6.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day6_output.png) | 🟢 Done |
-| day 7 | 10-11-2025 |  | Link_Day7 |  ⚪ Planned |
+| day 7 | 10-11-2025 |  HAVING clause, filtering aggregated results | [Link_Day7](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day7.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day7_output.png) | 🟢 Done  |
+| day 8 | 11-11-2025 |  | Link_Day8 |  ⚪ Planned |
 
  
 ### 🤝 The Club
