@@ -27,7 +27,8 @@ There are total 4 tables.
 | day 6 | 09-11-2025 | GROUP BY, aggregating by categories | [Link_Day6](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day6.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day6_output.png) | 🟢 Done |
 | day 7 | 10-11-2025 |  HAVING clause, filtering aggregated results | [Link_Day7](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day7.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day7_output.png) | 🟢 Done |
 | day 8 | 11-11-2025 | String Functions | [Link_Day8](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day8.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day8_output.png) | 🟢 Done |
-| day 9 | 12-11-2025 |  | Link_Day9 |  ⚪ Planned |
+| day 9 | 12-11-2025 | Date Functions | [Link_Day9](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day9.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day9_output.png) | 🟢 Done  |
+| day 10 | 13-11-2025 |  | Link_Day10 |  ⚪ Planned |
 
  
 ### 🤝 The Club
