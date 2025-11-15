@@ -30,7 +30,8 @@ There are total 4 tables.
 | day 9 | 12-11-2025 | Date Functions | [Link_Day9](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day9.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day9_output.png) | 🟢 Done  |
 | day 10 | 13-11-2025 | CASE Statements | [Link_Day10](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day_10.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day_10_output.png) | 🟢 Done |
 | day 11 | 14-11-2025 | DISTINCT and Handling Duplicates | [Link_Day11](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day_11.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day_11_output.png) | 🟢 Done |
-| day 12 | 15-11-2025 |  | Link_Day12 |  ⚪ Planned |
+| day 12 | 15-11-2025 | NULL handling, IS NULL, IS NOT NULL | [Link_Day12](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day_12.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day_12_output.png) | 🟢 Done |
+| day 13 | 17-11-2025 |  | Link_Day13 |  ⚪ Planned |
 
  
 ### 🤝 The Club
