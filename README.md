@@ -32,8 +32,8 @@ There are total 4 tables.
 | day 11 | 14-11-2025 | DISTINCT and Handling Duplicates | [Link_Day11](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day_11.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day_11_output.png) | 🟢 Done |
 | day 12 | 15-11-2025 | NULL handling, IS NULL, IS NOT NULL | [Link_Day12](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day_12.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day_12_output.png) | 🟢 Done |
 | day 13 | 17-11-2025 |  INNER JOIN | [Link_Day13](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day_13.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day_13_output.png) | 🟢 Done |
-| day 14 | 18-11-2025 |  | Link_Day14 |  ⚪ Planned |
-
+| day 14 | 18-11-2025 | LEFT JOIN and RIGHT JOIN | [Link_Day14](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Day_14.sql)   ,   [output](https://github.com/Ambika3003/SQL_With_IDC/blob/main/output/Day_14_output.png) | 🟢 Done |
+| day 15 | 19-11-2025 |  | Link_Day15 |  ⚪ Planned |
  
 ### 🤝 The Club
 A big thank you to the organizer **IDC[Indian Data Club]** and sponsor **DPDzero**  for arranging this excellent initiative!
