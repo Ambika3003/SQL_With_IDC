@@ -57,7 +57,7 @@ This project uses four relational tables:
 ## 🏷️ About the SQL Answers
 This mini project includes a structured set of questions divided across three phases — covering data inspection, filtering, exploration, and sales performance analysis.
 All SQL queries/answers for every question are provided separately in a dedicated SQL file inside this folder.
- 👉 [click here to see]()
+ 👉 [click here to see](https://github.com/Ambika3003/SQL_With_IDC/blob/main/Mini_Project/Mini_Project.sql)
 
 ## 🚀 Why This Mini Project Matters
 *This project strengthens my query-writing, data interpretation, and analytical thinking skills.*
